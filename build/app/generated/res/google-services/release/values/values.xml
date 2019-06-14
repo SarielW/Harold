@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">925404814176-b7m8vbabvap9rikalc05nh8hht61k4h6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://harold-9494.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">925404814176</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWT5tsU-UwmV1Y6UIKPQq8iKsxUdQHRqo</string>
+    <string name="google_app_id" translatable="false">1:925404814176:android:e043d4a4e53c2f04</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWT5tsU-UwmV1Y6UIKPQq8iKsxUdQHRqo</string>
+    <string name="google_storage_bucket" translatable="false">harold-9494.appspot.com</string>
+    <string name="project_id" translatable="false">harold-9494</string>
+</resources>

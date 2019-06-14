@@ -1,0 +1,7 @@
+#Thu Jun 13 11:01:28 CST 2019
+base.0=D\:\\Android-Project\\flutter_harold\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Android-Project\\flutter_harold\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
