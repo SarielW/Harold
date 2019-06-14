@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925404814176",
+    "firebase_url": "https://harold-9494.firebaseio.com",
+    "project_id": "harold-9494",
+    "storage_bucket": "harold-9494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925404814176:android:e043d4a4e53c2f04",
+        "android_client_info": {
+          "package_name": "com.harold.flutter_harold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925404814176-0t2ui6o6ugsk8qdp2csmmmc7i4oa1mgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harold.flutter_harold",
+            "certificate_hash": "46767069e0ed8bbbe2051fd40578bd009765230d"
+          }
+        },
+        {
+          "client_id": "925404814176-b7m8vbabvap9rikalc05nh8hht61k4h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWT5tsU-UwmV1Y6UIKPQq8iKsxUdQHRqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925404814176-b7m8vbabvap9rikalc05nh8hht61k4h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b763d22a64ce1c607206303b1e06f343\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b763d22a64ce1c607206303b1e06f343\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b763d22a64ce1c607206303b1e06f343\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b763d22a64ce1c607206303b1e06f343\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b763d22a64ce1c607206303b1e06f343\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\flutter_harold\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\84252\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\09cdc7306041a38f8f193e4be9f2930b\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    }
+]
